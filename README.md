@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **contato@israelfagundes.com**
 
+- 📄 Know about my experiences [here](https://www.notion.so/Resume-938e363e15544ab59f14310db6fe81c7)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/israelfagundes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="israelfagundes" height="30" width="40" /></a>
