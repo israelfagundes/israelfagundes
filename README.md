@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **reactjs, next.js, redux, and anything in reactjs ecosystem 😄**
 
-- 📫 How to reach me **contato@israelfagundes.com**
+- 📫 How to reach me **contato@israelfagundes.dev**
 
 - 📄 Know about my experiences [here](https://www.notion.so/Resume-938e363e15544ab59f14310db6fe81c7)
 
