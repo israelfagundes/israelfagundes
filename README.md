@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Israel</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A software engineer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=israelfagundes&label=visitors&color=0e75b6&style=flat" alt="israelfagundes" /> </p>
 
