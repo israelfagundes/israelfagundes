@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=israelfagundes&label=visitors&color=0e75b6&style=flat" alt="israelfagundes" /> </p>
 
-- 🔭 I’m currently working on [Company Hero](https://www.companyhero.com/)
+- 🔭 I’m currently working at [Company Hero](https://www.companyhero.com/)
 
 - 🌱 I’m currently learning **GraphQL, Relay, AWS Amplify and Jest.**
 
