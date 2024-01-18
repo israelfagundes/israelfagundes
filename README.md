@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=israelfagundes&label=visitors&color=0e75b6&style=flat" alt="israelfagundes" /> </p>
 
-- 🔭 I’m currently working at [Company Hero](https://www.companyhero.com/)
+- 🔭 I’m currently working at [Radix](https://www.radixeng.com/)
 
-- 🌱 I’m currently learning **GraphQL, Relay, AWS Amplify and Jest.**
+- 🌱 I’m currently learning **GraphQL, Relay and AWS Amplify**
 
 - 📫 How to reach me **contato@israelfagundes.dev**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/israelfagundes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="israelfagundes" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/israel-fagundes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="israelfagundes" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
