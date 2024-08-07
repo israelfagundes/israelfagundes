@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=israelfagundes&label=visitors&color=0e75b6&style=flat" alt="israelfagundes" /> </p>
 
-- 🔭 I’m currently working at [Radix](https://www.radixeng.com/)
-
 - 🌱 I’m currently learning **GraphQL, Relay and AWS Amplify**
 
 - 📫 How to reach me **contato@israelfagundes.dev**
